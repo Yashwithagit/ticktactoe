@@ -21,6 +21,7 @@
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
+    "node-forge": ">=0.10.0",
     "@babel/core": "^7.15.0",
     "babel-eslint": "^10.1.0",
     "babel-preset-nano-react-app": "^0.1.0",
