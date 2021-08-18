@@ -9,6 +9,7 @@ Stack:
 - React
 - Styles with Saas
 
+
 ## Develop Locally
 
 1. Clone this Repo by running
@@ -29,9 +30,11 @@ npm install
 npm run start
 ```
 
+
 ## Deployment
 
-Deployed to surge.sh -> (https://surge.sh/help/getting-started-with-surge)
+Deployed to surge.sh -> https://surge.sh/help/getting-started-with-surge
+
 
 ## Credit
 
