@@ -4,16 +4,16 @@
 
 The Tic Tac Toe game in React.
 
-__Instructor : Andrew Hulenko__
+_Instructor : Andrew Hulenko_
 
 
 # Output
 
-![Output](![output](https://user-images.githubusercontent.com/69108211/129874909-39c8602f-5e43-487a-9df0-e761a2bbcb90.gif)
-)
+
+<img src="src/output.gif" width="600" height="400"/>
 
 
-Stack:
+# Stack:
 
 - React
 - Styles with Saas
