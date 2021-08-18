@@ -2,7 +2,16 @@
 
 ## Overview
 
-The Tic Tac Toe game in -[React].
+The Tic Tac Toe game in React.
+
+__Instructor : Andrew Hulenko__
+
+
+# Output
+
+![Output](![output](https://user-images.githubusercontent.com/69108211/129874909-39c8602f-5e43-487a-9df0-e761a2bbcb90.gif)
+)
+
 
 Stack:
 
@@ -36,6 +45,6 @@ npm run start
 Deployed to surge.sh -> https://surge.sh/help/getting-started-with-surge
 
 
-## Credit
+## Reference
 
- guided Project by -> [Internshala](https://trainings.internshala.com/)
+ guided Project by [Internshala Training](https://trainings.internshala.com/)
