@@ -31,8 +31,8 @@ npm run start
 
 ## Deployment
 
-Deployed to surge.sh -> [surge](https://surge.sh/help/getting-started-with-surge)
+Deployed to surge.sh -> (https://surge.sh/help/getting-started-with-surge)
 
 ## Credit
 
--[Internshala] guided Project-> [Internshala](https://trainings.internshala.com/)
+ guided Project by -> [Internshala](https://trainings.internshala.com/)
